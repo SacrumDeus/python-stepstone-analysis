@@ -189,7 +189,7 @@ regiostat.search_datacube("BIP")
 
 The **second opportunity** is to go to the website http://www.regionalstatistik.de. On this website you need to find the **key** of the certain topic. Example: The keys of the **labour market** resources begin with the digits **13**.
 
-![title](pictures/regiostat.png)
+![title](pictures/regiostat.PNG)
 
 Then the obtained key can then be inserted in the method `retrieve_datalist("key")`. This method returns all data cubes whose codes contain a certain key.
 

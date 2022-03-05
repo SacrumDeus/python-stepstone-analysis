@@ -1,7 +1,5 @@
 # Preprocessing
 
-Author: Engelbert Ehret (GitHub: [ehrete](https://github.com/Ehrete)), Adrian Weiss (GitHub: [SacrumDeus](https://github.com/SacrumDeus))
-
 After loading data from our data sources
 
 * Stepstone

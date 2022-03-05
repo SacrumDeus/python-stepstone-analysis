@@ -1,7 +1,5 @@
 # Webscraping
 
-Author: Engelbert Ehret (GitHub: [ehrete](https://github.com/Ehrete)), Adrian Weiss (GitHub: [SacrumDeus](https://github.com/SacrumDeus))
-
 This part describes the webscraping process to retrieve the data from data source *stepstone*. There are several items which are scraped:
 * Stepstone results for a given job (e.g. Data Scientist: https://www.stepstone.de/5/ergebnisliste.html?what=Data%20Scientist)
 * Stepstone job description (e.g. Data Scientist: https://www.stepstone.de/stellenangebote--Data-Scientist-m-f-d-Muenchen-80335-IU-Internationale-Hochschule--7256289-inline.html)

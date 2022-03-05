@@ -2,7 +2,7 @@
 
 Stepstone job offers contain different text areas. One area contains the **job profile (tasks)**, another the **applicant profile**.
 
-![content](pictures/contents.png)
+![content](pictures/contents.PNG)
 
 The relevant content of the two **text areas** are extracted in this notebook. This is done with the help of text mining methods.
 
