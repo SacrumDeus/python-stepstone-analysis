@@ -243,8 +243,8 @@ app.layout = html.Div([
                 html.H3("Job List", id="jobListHeader"),
                 html.Div(id="jobList")
             ]),
-            style={"margin":"10px"}
-        )
+        ),
+        style={"padding": "10px"}
     )
 ],
 style={"padding": "10px"})
