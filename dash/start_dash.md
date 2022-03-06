@@ -11,23 +11,23 @@ The layout of the Dash app is shown in the figure below.
 
 The app consists of three areas:
 1.  **Map area** (middle left)
-1.  **Graph area** (middle left)
+1.  **Graph area** (middle center and right)
 1.  **Job List** (bottom)
 
 A map with the German counties is displayed in the **map area**. The colors of the counties are based on the number of Data Science jobs. 
 
-> The Geojson File used in the map is downloaded from the site [opendatasoft](ps://data.opendatasoft.com/explore/dataset/georef-germany-kreis%40public/export) and simplyfied by using the online tool [Mapshaper](https://mapshaper.org/).
+> The Geojson File used in the map was downloaded from the site [opendatasoft](https://data.opendatasoft.com/explore/dataset/georef-germany-kreis%40public/export) and was simplyfied by using the online tool [Mapshaper](https://mapshaper.org/).
 
-The graphics in the **graph area** (detailed information) and the **job list** contain county data. These areas are updated when the user clicks on a county in the map.
+The graphics in the **graph area** (detailed information) and the **job list** contain county data. These areas will be updated if the user clicks on a county in the map.
 
-The **graph area** consists of two graphics. The user can select which variable to display in each chart via a dropbox menu.
+The **graph area** consists of two graphics. The user can select via a dropbox menu which variable should be displayed in each chart.
 
-The Dash app is responsive and therefore works on small screens like smartphones.
+The Dash app is responsive and therefore it works on small screens like smartphones.
 
 
 ## Installation and running
 
-To start the app, the following steps must be performed:
+The following steps must be performed to start the Dash app:
 
 1. Make sure that the following packages are installed:
     *   pandas (1.4.0)
